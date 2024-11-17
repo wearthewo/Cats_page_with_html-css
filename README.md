@@ -1,1 +1,1 @@
-# Cats_page_with_html-css
+This is a single web page created with html and css . The basic idea is to split the width of the page using the flex property in css. So we created a column as a side which contains 30% of the page and a column as a main which contains the other 70% of the page. Also we created a dropdown menu using block and position properties in the css and we added different colours in our classes with hover nd active properties.
